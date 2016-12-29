@@ -1,0 +1,6 @@
+C:\Users\qianchang\Desktop\test\test\test\bin\Debug\test.exe.config
+C:\Users\qianchang\Desktop\test\test\test\bin\Debug\test.exe
+C:\Users\qianchang\Desktop\test\test\test\bin\Debug\test.pdb
+C:\Users\qianchang\Desktop\test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\qianchang\Desktop\test\test\test\obj\Debug\test.exe
+C:\Users\qianchang\Desktop\test\test\test\obj\Debug\test.pdb
