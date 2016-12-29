@@ -14,7 +14,7 @@ namespace test
        //主人被惊醒的方法
         public void Wake()
         {
-            Console.WriteLine("主人：死猫别叫");
+            Console.WriteLine("主人：喵喵（改动一下），猫别叫");
         }
     }
     //老鼠类
